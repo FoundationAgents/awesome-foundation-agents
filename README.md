@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/foundationagents-awesome-foundation-agents-badge.png)](https://mseep.ai/app/foundationagents-awesome-foundation-agents)
+
 # Awesome-Foundation-Agents
 
 [![PR Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/FoundationAgents/awesome-foundation-agents/pulls)
