@@ -898,6 +898,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 - **Data Interpreter: An LLM Agent For Data Science**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.18679)] 
 
+- **Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**, arXiv 2025, [[paper](https://arxiv.org/abs/2502.16069)], [[github](https://github.com/Just-Curieous/Curie)]
 
 # Collaborative and Evolutionary Intelligent Systems
 <div style="display: flex; justify-content: space-between;">
