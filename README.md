@@ -632,6 +632,8 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ### RL (Reinforcement Learning)
 
+- **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**, arXiv 2025, [[paper](https://arxiv.org/abs/2509.02547)] [[code](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers)]
+
 - **RLHF: Training language models to follow instructions with human feedback**, NeurIPS 2022, [[paper](https://arxiv.org/pdf/2203.02155)]
 
 - **DPO: Direct preference optimization: Your language model is secretly a reward model**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2305.18290)]
@@ -898,6 +900,10 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 - **Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.12391)] 
 
+- **GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis**, MLCB 2025 (Oral), [[paper](https://arxiv.org/abs/2406.15341)] [[code](https://github.com/Liu-Hy/GenoTEX)] [[project](https://liu-hy.github.io/GenoTEX/)]
+
+- **GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis**, arXiv 2025, [[paper](https://arxiv.org/abs/2507.21035)] [[code](https://github.com/Liu-Hy/GenoMAS)] [[project](https://liu-hy.github.io/GenoMAS/)]
+
 - **Data Interpreter: An LLM Agent For Data Science**, arXiv 2024, [[paper](https://arxiv.org/abs/2402.18679)] 
 
 - **Curie: Toward Rigorous and Automated Scientific Experimentation with AI Agents**, arXiv 2025, [[paper](https://arxiv.org/abs/2502.16069)], [[github](https://github.com/Just-Curieous/Curie)]
@@ -937,6 +943,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - ChatDev (Qian et al., 2024)
 - Generative Agents (Park et al., 2023)
 - S-Agents (Chen et al., 2024)
+- **Achilles Heel of Distributed Multi-Agent Systems**, arXiv 2025, [[paper](https://arxiv.org/abs/2504.07461)]
 
 ### Interaction Protocols
 #### Message Types
@@ -1004,6 +1011,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - Agent Hospital (Li et al., 2024)
 - Agent Laboratory (Schmidgall et al., 2025)
 - MEDCO (Wei et al., 2024)
+- **CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards**, arXiv 2025, [[paper](https://arxiv.org/abs/2510.08529)]
 
 ## Evaluation
 ### Benchmark for Specific Tasks
