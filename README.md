@@ -1054,6 +1054,8 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### Black-box Jailbreak
 
+- **Internal Safety Collapse in Frontier Large Language Models**, arXiv 2026, [[paper](https://arxiv.org/abs/2603.23509)] [[code](https://github.com/wuyoscar/ISC-Bench)]
+
 - **Jailbroken: How does LLM safety training fail?**, NeurIPS 2023, [[paper](https://papers.nips.cc/paper_files/paper/2023/hash/063b264250add1efdb3e3f7f5686b4e0-Abstract-Conference.html)]
   
 - **Jailbreaking black box large language models in twenty queries**, arXiv 2023, [[paper](https://arxiv.org/abs/2310.08419)]
