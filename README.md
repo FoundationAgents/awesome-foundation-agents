@@ -9,6 +9,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ⌛️ Coming soon: Version 2! We're continuously compiling and updating cutting-edge insights. Feel free to suggest any related work you find valuable!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration with task registry and quality gates. MIT licensed.
 ## Our Works Towards Foundation Agents
 
 ✨✨✨ [Advances and Challenges in Foundation Agents](https://www.arxiv.org/abs/2504.01990) (Paper)
