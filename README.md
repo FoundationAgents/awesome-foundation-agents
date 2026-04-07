@@ -954,6 +954,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - MCP (Anthropic)
 - Agora (Marro et al., 2024)
 - IoA (Chen et al., 2024)
+- [Global Chat](https://github.com/pumanitro/global-chat) - Cross-protocol agent discovery infrastructure aggregating agents across MCP, A2A, agents.txt, and 9+ other protocols
 
 ## Topology
 ### Static Topology
