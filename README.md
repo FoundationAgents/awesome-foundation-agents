@@ -51,6 +51,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 ##### Partial
 - **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models**, Wei et al. 2022, [[paper](https://arxiv.org/abs/2201.11903)] [[code]()]
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/ai-agents) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - **Voyager: An Open-Ended Embodied Agent with Large Language Models**, arxiv 2023, [[paper](https://arxiv.org/abs/2305.16291)] [[code]()]
 - **Reflexion: Language Agents with Verbal Reinforcement Learning**, NeurIPS 2023, [[paper](https://arxiv.org/abs/2303.11366)] [[code]()]
 - **ReAct meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**, arxiv 2024, [[paper](https://arxiv.org/abs/2403.14589)] [[code]()]
