@@ -296,6 +296,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - **Mixture of A Million Experts**, arXiv 2024, [[paper](https://arxiv.org/pdf/2407.04153)]
 - **Retrieve Only When It Needs: Adaptive Retrieval Augmentation for Hallucination Mitigation in Large Language Models**, arXiv 2024, [[paper](https://arxiv.org/pdf/2402.10612)]
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 ## Perception
 <div style="display: flex; justify-content: space-between;">
     <img src="assets/2-3-perception.png" alt="Perception System" width="100%">
