@@ -1012,6 +1012,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - MATH (dataset-math)
 - SVAMP (dataset-svamp)
 - MultiArith (dataset-multiarith)
+- ClawBench (Zhang et al., 2026) [[paper](https://arxiv.org/abs/2604.08523)] [[project](https://claw-bench.com/)] [[code](https://github.com/reacher-z/ClawBench)]
 
 ### Benchmark for MAS
 - Collab-Overcooked (Sun et al., 2025)
