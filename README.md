@@ -1033,6 +1033,8 @@ We maintain a curated collection of papers exploring the path towards Foundation
 
 #### White-box Jailbreak
 
+- **SABER: Uncovering Vulnerabilities in Safety Alignment via Cross-Layer Residual Connection**, EMNLP 2025, [[paper](https://aclanthology.org/2025.emnlp-main.825/)] [[code](https://github.com/PalGitts/SABER)]
+
 - **Jailbreak attacks and defenses against large language models: A survey**, arXiv 2024, [[paper](https://arxiv.org/abs/2407.04295)]
   
 - **Universal and transferable adversarial attacks on aligned language models**, arXiv 2023, [[paper](https://arxiv.org/abs/2307.15043)]
