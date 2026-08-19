@@ -918,6 +918,7 @@ We maintain a curated collection of papers exploring the path towards Foundation
 - Agent Hospital (Li et al., 2024)
 - MedAgents (Tang et al., 2024)
 - MEDCO (Wei et al., 2024)
+- CityReal (Bougie et al., 2026)
 
 ### Collaborative Task Solving
 - MetaGPT (Hong et al., 2023)
